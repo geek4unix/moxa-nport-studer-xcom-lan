@@ -3,7 +3,7 @@
 If you have reset your Moxa Nport serial to ethernet device and want to get it working again with Studer Xcom Lan .... 
 
 
-Are you seeing Error 089 - Could not connect to Xom server
+Are you seeing Error 089 - Could not connect to Xcom server
 
 Then this guide is for you.
 
