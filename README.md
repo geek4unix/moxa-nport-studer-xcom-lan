@@ -3,16 +3,17 @@
 If you have reset your Moxa Nport serial to ethernet device and want to get it working again with Studer Xcom Lan .... 
 
 
-Are you seeing Error 089 - Could not connect to Xcom server
+>Are you seeing Error 089 - Could not connect to Xcom server
 
 Then this guide is for you.
 
 #Question
 
-Why reset the Nport at all ?
+> Why reset the Nport at all ?
 
 #Answer
-Because there was a UI and i didnt have the password. Any curious sysadmin who likes trouble would be curious ...
+
+> Because there was a UI and i didnt have the password. Any curious sysadmin who likes trouble would be curious ...
 
 #How to reset the Nport Serial to ethernet converter
 
