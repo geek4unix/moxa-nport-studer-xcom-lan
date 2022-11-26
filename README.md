@@ -1,5 +1,9 @@
 # moxa-nport-studer-xcom-lan
+
 If you have reset your Moxa Nport serial to ethernet device and want to get it working again with Studer Xcom Lan .... 
+
+
+Are you seeing Error 089 - Could not connect to Xom server
 
 Then this guide is for you.
 
@@ -33,7 +37,7 @@ Yes and No - Your Nport device is reset and is now back on the network, but ther
 
 **Configure Nport to send data to studer-innotec server**
 
-Login to the Nport/Moxa interface I had to :  
+Login to the Nport/Moxa interface:  
 
 1) change operation mode to tcp client
 2) change the 1st of 4 settings for destination IP 1 to : xcom.studer-innotec.com , port 83
